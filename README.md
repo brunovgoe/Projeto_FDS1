@@ -1,5 +1,11 @@
-Projeto_FDS: Neuro Bridge
-Membros : Bruno Vilar Gabriel Ângelo Guilhermo Fernandes João Paulo Silveira de Melo Pedro Henrique Dornellas João Vítor do Sacramento Bezerra da Cunha Costa Gustavo José Magina Eustachio
+# Projeto_FDS: Neuro Bridge
+Membros : Bruno Vilar 
+Gabriel Ângelo 
+Guilhermo Fernandes
+João Paulo Silveira de Melo 
+Pedro Henrique Dornellas 
+João Vítor do Sacramento Bezerra da Cunha Costa
+Gustavo José Magina Eustachio
 
 link do jira: https://projfds.atlassian.net/jira/software/projects/KAN/boards/1
 
